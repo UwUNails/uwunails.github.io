@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Pedicure"
-        desc: "Pedicure Spa <br> Deluxe Pedicure Spa <br> VIP Pedicure Spa"
+        desc: "Pedicure Spa <br> Deluxe Pedicure Spa <br> VIP Pedicure Spa <br> Children's Pedicure"
 #        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Manicure"
