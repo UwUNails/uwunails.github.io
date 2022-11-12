@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: "Experience Chicago Chinatown Hospitality"
     text: "Unwind with us today"
-    button: Our Services
-    buttonlink: "#services"
+    button: Book now
+#    buttonlink: "#services"
 
   services:
     title: "Services"
