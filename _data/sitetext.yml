@@ -58,7 +58,7 @@ en: &DEFAULT_EN
     text: "Appointments recommended"
 
   footer:
-    legal: " "
+    button: "Book online now"
     social:
       - url: https://www.facebook.com/people/UwU-Nails/100087022925748/
         icon: "fab fa-facebook-f"
