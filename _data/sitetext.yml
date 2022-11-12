@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ""
-    text: Welcome to our salon!
+    title: "Experience Chicago Chinatown Hospitality"
+    text: "Unwind with us today"
     button: Our Services
     buttonlink: "#services"
 
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - name: "Location"
         role: "2143 S China Place, Unit B, 2nd Fl.<br> Chicago, IL 60616"
       - name: "Hours of Operation"
-        role: "7 days a week<br> 11am - 7pm <br> Appointments recommended"
+        role: "7 days a week<br> 11am - 7pm"
       - name: "Contact us"
         role: "(e) uwunailschicago@gmail.com <br> (P) 312-721-6877"
 
