@@ -37,6 +37,7 @@ en: &DEFAULT_EN
     text: "What is UwU?"
     body: "UwU is the expression of happiness, warmth, and comfort. Let us help you feel UwU!"
     section: about
+    button: Check availability
 
   team:
     title: "OUR AMAZING TEAM"

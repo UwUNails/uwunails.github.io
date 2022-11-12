@@ -1,5 +1,9 @@
 <!-- About -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
+<div class="col-lg-12 text-center">
+  <script id="setmore_script" type="text/javascript" src="https://my.setmore.com/webapp/js/src/others/setmore_iframe.js"></script><a id="Setmore_button_iframe" style="float:none "class="btn btn-primary btn-xl text-uppercase" href="https://booking.setmore.com/scheduleappointment/74a8687f-5f7d-4a89-a2cd-27721a767b0b">{{ site.data.sitetext[site.locale].about.button }}</a>
+</div>
+
 <section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
   <div class="container">
     <div class="row">
