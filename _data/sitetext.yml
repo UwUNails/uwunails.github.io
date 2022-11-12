@@ -35,7 +35,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "What is UwU?"
-    body: "UwU is the expression of happiness, warm, and comfort. Let us help you feel UwU!"
+    body: "UwU is the expression of happiness, warmth, and comfort. Let us help you feel UwU!"
     section: about
 
   team:
