@@ -1,0 +1,74 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: ""
+    text: Welcome to our salon!
+    button: Our Services
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "See our menu"
+    section: services
+    list:
+      - title: "Pedicure"
+        desc: "Pedicure Spa <br> Deluxe Pedicure Spa <br> VIP Pedicure Spa"
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Manicure"
+        desc: "Classic Manicure<br> Deluxe Manicure<br>No Chip Manicure <br> Dip Nails <br> Nail Art <br> Ombre Nails"
+#        icon: fas fa-laptop
+      - title: "Waxing"
+        desc: "Eyebrows<br> Upper Lip<br>Chin <br> Forearms <br>Lower Legs"
+#        icon: fas fa-laptop
+
+  about:
+    title: "About Us"
+    text: "What is UwU?"
+    body: "UwU is the expression of happiness, warm, and comfort. Let us help you feel UwU!"
+    section: about
+
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: ""
+    section: team
+    people:
+      - name: "Location"
+        role: "2143 S China Place, Unit B, 2nd Fl.<br> Chicago, IL 60616"
+      - name: "Hours of Operation"
+        role: "7 days a week<br> 11am - 7pm <br> Appointments recommended"
+      - name: "Contact us"
+        role: "(e) uwunailschicago@gmail.com <br> (P) 312-721-6877"
+
+
+  contact:
+    title: "Contact us<br>(e) uwunailschicago@gmail.com <br> (P) 312-721-6877"
+    text: "Appointments recommended"
+
+  footer:
+    legal: " "
+    social:
+      - url: https://facebook.com/100087022925748/
+        icon: "fab fa-facebook-f"
+      - url: https://instagram.com/uwunailschi
+        icon: "fab fa-instagram"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
