@@ -14,12 +14,12 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://uwunails.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : UwU Nails
 email      : uwunailschicago@gmail.com #this is also the email contact forms will go to
-description: "Chicago Nail Salon in Chinatown Square. We do manicures, pedicures, and waxing."
+description: "Chicago Nail Salon in Chinatown Square. Experience Chicago Chinatown Hospitality."
 author     : UwU Nails
 #logo:     #optional, defaults to site title
 #  path: assets\img\UwU-logo.jpg
