@@ -29,6 +29,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
   google: G-3BWWDJCQM3
+  fb: 891789838857591
 
 collections:
   portfolio:
