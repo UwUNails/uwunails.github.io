@@ -30,6 +30,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: G-3BWWDJCQM3
   fb: 891789838857591
+  fb_domain_verification: 0slr457jn7ugf1ovmvsukyi1icdi00
 
 collections:
   portfolio:
