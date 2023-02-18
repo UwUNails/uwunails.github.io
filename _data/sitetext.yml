@@ -22,11 +22,11 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Pedicure"
-        desc: "Pedicure Spa <br> Deluxe Pedicure Spa <br> VIP Pedicure Spa <br> Children's Pedicure"
+        desc: "Classic Pedicure <br> Deluxe Pedicure Spa <br> Collagen Pedicure Spa <br> Volcano Charcoal Pedicure Spa <br> Children’s Pedicure"
 #        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Manicure"
-        desc: "Classic Manicure<br> Deluxe Manicure<br>No Chip Manicure <br> Dip Nails <br> Nail Art <br> Ombre Nails"
+        desc: "Classic Manicure <br> Deluxe Manicure <br> No Chip Manicure <br> Dip Nails <br> Nail Art <br> Ombre Nails"
 #        icon: fas fa-laptop
       - title: "Waxing"
         desc: "Eyebrows<br> Upper Lip<br>Chin <br> Forearms <br>Lower Legs"
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
       - name: "Location"
         role: "2143 S China Place, Unit B, 2nd Fl.<br> Chicago, IL 60616"
       - name: "Hours of Operation"
-        role: "7 days a week<br> 11am - 7pm <br> Walk-ins welcome!"
+        role: "7 days a week <br> Monday - Saturday 11am - 6pm <br> Sunday 11am - 5pm <br> Walk-ins welcome! <br> Extended hours available by online appointment"
       - name: "Contact us"
         role: "(e) uwunailschicago@gmail.com <br> (P) 312-721-6877"
 
