@@ -26,10 +26,10 @@ en: &DEFAULT_EN
 #        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Manicure"
-        desc: "Classic Manicure <br> Deluxe Manicure <br> No Chip Manicure <br> Dip Nails <br> Nail Art <br> Ombre Nails"
+        desc: "Classic Manicure <br> No Chip Manicure <br> Dip Manicure <br> Full Set Nail Extensions <br> Nail Art & Design <br> Children's Manicure"
 #        icon: fas fa-laptop
       - title: "Waxing"
-        desc: "Eyebrows<br> Upper Lip<br>Chin <br> Forearms <br>Lower Legs"
+        desc: "Eyebrows <br> Upper Lip <br> Chin <br> Forearms <br> Lower Legs"
 #        icon: fas fa-laptop
 
   about:
