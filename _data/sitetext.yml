@@ -48,7 +48,7 @@ en: &DEFAULT_EN
       - name: "Location"
         role: "2143 S China Place, Unit B, 2nd Fl.<br> Chicago, IL 60616"
       - name: "Hours of Operation"
-        role: "7 days a week <br> Appointments recommended <br> Monday - Saturday 11am - 6pm <br> Sunday 11am - 5pm <br> Extended hours available by online appointment"
+        role: "7 days a week <br> Appointments recommended <br> Monday 12pm - 6pm <br> Tuesday - Saturday 11am - 6pm <br> Sunday 11am - 5pm <br> Extended hours available by online appointment"
       - name: "Contact us"
         role: "(e) uwunailschicago@gmail.com <br> (P) 312-721-6877"
 
